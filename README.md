@@ -3,21 +3,21 @@
 > This project is about an app of books called Awesome vooks where you can add and remove a bookyou think is awesome
 
 
-## Built Withhttps:
+## Built With:
 
 - Html5
 - CSS3
 - Javascript
 - ES6
 
-## Live Demo
 
 ## Getting Started
 
 To get a copyof this project you can follow these simple steps.
 
-> open your terminal in your PC
-> type git clone and add this link on the same line https://github.com/Pazzo97/Awesome-ES6
+- git clone https://github.com/Pazzo97/Awesome-ES6.git
+- cd Awesome-ES6
+- open with vs code and run with live server.
 
 ## Author
 
