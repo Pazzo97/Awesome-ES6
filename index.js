@@ -43,4 +43,4 @@ contactItem.addEventListener('click', () => {
 });
 
 const currentTime = document.querySelector('.time');
-currentTime.innerHTML = DateTime.now().toLocaleString(DateTime.DATE_MED_WITH_WEEKDAY);
+currentTime.innerHTML = DateTime.now().toLocaleString(DateTime.DATETIME_MED_WITH_SECONDS);
